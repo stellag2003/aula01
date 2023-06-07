@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.exe
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.pdb
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.exe
+C:\Users\stella.gmendonca\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.pdb
